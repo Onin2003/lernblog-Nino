@@ -1,5 +1,5 @@
 +++
-title = "Ergebniss"
+title = "Ergebnis"
 date = "2022-05-16"
 draft = false
 pinned = false
